@@ -40,3 +40,4 @@ vim.opt.whichwrap:append("<,>,[,],h,l")
 vim.opt.iskeyword:append("-")
 vim.g.nord_borders = false
 vim.g.material_style = "darker"
+vim.g.tokyonight_style = "night"
